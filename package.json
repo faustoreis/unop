@@ -2,7 +2,7 @@
   "name": "unops",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://faustoreis.github.io/UNOP/",
+  "homepage": "https://faustoreis.github.io/unop/#/",
   "dependencies": {
     "@material-ui/core": "^4.11.4",
     "@material-ui/icons": "^4.11.2",
