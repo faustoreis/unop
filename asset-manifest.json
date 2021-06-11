@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/UNOP/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/UNOP/static/js/main.c52d9e91.chunk.js",
+    "main.js.map": "/UNOP/static/js/main.c52d9e91.chunk.js.map",
+    "runtime-main.js": "/UNOP/static/js/runtime-main.f361312f.js",
+    "runtime-main.js.map": "/UNOP/static/js/runtime-main.f361312f.js.map",
+    "static/js/2.439f3a33.chunk.js": "/UNOP/static/js/2.439f3a33.chunk.js",
+    "static/js/2.439f3a33.chunk.js.map": "/UNOP/static/js/2.439f3a33.chunk.js.map",
+    "static/js/3.390bcd87.chunk.js": "/UNOP/static/js/3.390bcd87.chunk.js",
+    "static/js/3.390bcd87.chunk.js.map": "/UNOP/static/js/3.390bcd87.chunk.js.map",
+    "index.html": "/UNOP/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/UNOP/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.439f3a33.chunk.js.LICENSE.txt": "/UNOP/static/js/2.439f3a33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f361312f.js",
+    "static/js/2.439f3a33.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c52d9e91.chunk.js"
+  ]
+}
