@@ -1,0 +1,239 @@
+[
+  {
+  "codigo": 10001,
+  "nome": "Minuano",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10002,
+  "nome": "Exatron",
+  "cnpj": 12345678921233,
+  "situacao": "Ativo",
+  "turnos": [
+    {"descricao": "Manha"},
+    {"descricao": "Tarde"}
+  ],
+  "restaurantes": [
+    {"descricao": "Restaurante 1"},
+    {"descricao": "Restaurante 2"},
+    {"descricao": "Restaurante 2"},
+    {"descricao": "Restaurante 3"},
+    {"descricao": "Restaurante 4"}
+
+  ],
+  "feriados": [
+    {"data": "Thu Jun 10 2021 22:54:22 GMT-0300"},
+    {"data": "Restaurante 2"}
+  ]
+  },
+  {
+  "codigo": 10003,
+  "nome": "Planalto",
+  "cnpj": 1234567892,
+  "situacao": "Inativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10004,
+  "nome": "Frigorifico Silva Ltda",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10005,
+  "nome": "Grupos Sinos",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10006,
+  "nome": "Minuano",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10007,
+  "nome": "Exatron",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10008,
+  "nome": "Planalto",
+  "cnpj": 1234567892,
+  "situacao": "Inativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10009,
+  "nome": "Frigorifico Silva Ltda",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10010,
+  "nome": "Grupos Sinos",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10011,
+  "nome": "Minuano",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10012,
+  "nome": "Exatron",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10013,
+  "nome": "Planalto",
+  "cnpj": 1234567892,
+  "situacao": "Inativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10014,
+  "nome": "Frigorifico Silva Ltda",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10015,
+  "nome": "Grupos Sinos",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },{
+  "codigo": 10016,
+  "nome": "Minuano",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10017,
+  "nome": "Exatron",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10018,
+  "nome": "Planalto",
+  "cnpj": 1234567892,
+  "situacao": "Inativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10019,
+  "nome": "Frigorifico Silva Ltda",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10020,
+  "nome": "Grupos Sinos",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  } ,
+  {
+  "codigo": 10021,
+  "nome": "Minuano",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10022,
+  "nome": "Exatron",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10023,
+  "nome": "Planalto",
+  "cnpj": 1234567892,
+  "situacao": "Inativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10024,
+  "nome": "Frigorifico Silva Ltda",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  },
+  {
+  "codigo": 10025,
+  "nome": "Grupos Sinos",
+  "cnpj": 1234567892,
+  "situacao": "Ativo",
+  "turnos": [],
+  "restaurantes": [],
+  "feriados": []
+  }         
+]
